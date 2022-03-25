@@ -4,13 +4,13 @@ body {
 }
 
 #main-heading {
-    color: hsla(0, 76%, 16%, 0.952);
+    color: red;
     font-family: Copperplate, fantasy;
     text-align: center;
 }
 
 .funParagraph {
-    color:hsla(138, 82%, 18%, 0.952);
+    color:green;
 }
 
 p {
