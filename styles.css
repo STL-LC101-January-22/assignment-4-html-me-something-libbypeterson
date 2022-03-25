@@ -1,1 +1,39 @@
-/* Write your CSS here! */
+body {
+    display: block;
+    margin: 8px;
+}
+
+#main-heading {
+    color: red;
+    font-family: Copperplate, fantasy;
+    text-align: center;
+}
+
+.funParagraph {
+    color:green;
+}
+
+p {
+    font-family: Poppins, sans-serif;
+    padding: 25px 75px 75px 100px;
+}
+
+h2 {
+    color:hsla(17, 92%, 24%, 0.952);
+    text-align: center;
+}
+
+html {
+    background-color:rgba(53, 89, 207, 0.2);
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer {
+    text-align: center;
+}
